@@ -3,7 +3,7 @@
 ## Introducción
 - **Nombre del Proyecto:** Gestión de Usuarios
 - **Descripción:** Una aplicación CRUD para gestionar usuarios, permitiendo crear, leer, actualizar y eliminar registros de usuarios.
-- **Tecnologías Utilizadas:** Node.js, Express, MongoDB, HTML, CSS, JavaScript
+- **Tecnologías Utilizadas:** PHP, HTML, CSS, JavaScript, Bootstrap. 
 
 ## Requisitos
 - **Funcionales:**
@@ -28,17 +28,9 @@ CREATE TABLE Usuarios (
 );
 ```
 - **Arquitectura:**
-    - **Frontend:** HTML, CSS, JavaScript
-    - **Backend:** Node.js, Express
-    - **Base de Datos:** MongoDB
-
-## Despliegue
-
-### Servidor
-Sube tu aplicación a un servicio de alojamiento como Heroku o AWS.
-
-### Mantenimiento
-Monitorea la aplicación y realiza actualizaciones y correcciones de errores según sea necesario.
+    - **Frontend:** HTML, CSS, JavaScript, Bootstrap
+    - **Backend:** PHP
+    - **Base de Datos:** Mysqli
 
 ## Manual de Usuario
 
